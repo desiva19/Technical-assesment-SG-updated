@@ -1,0 +1,5 @@
+We have the following email address in our local memory
+You can find in script.js file.
+1)siva@dso.org.sg
+2)deepa@dso.org.sg
+3)Surya@dso.org.sg
